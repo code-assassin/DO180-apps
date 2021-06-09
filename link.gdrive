@@ -1,2 +1,9 @@
 https://drive.google.com/file/d/1NBaYI2FbRWy9wzZ362tP8GHKvXBzjDPG/view
 https://drive.google.com/drive/folders/1Al2VNGhULT6wxpysr9VbUO1vOYieXZf-?usp=sharing
+3. pip3 install setuptools-50.3.2-py3-none-any.whl
+4. pip3 install certifi-2020.6.20-py2.py3-none-any.whl
+5. pip3 install elasticsearch-7.8.1-py2.py3-none-any.whl
+6. pip3 install urllib3-1.25.11-py2.py3-none-any.whl
+7. install gcc
+8. install python3-devel
+9. python3 setup.py install
