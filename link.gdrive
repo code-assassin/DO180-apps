@@ -7,3 +7,4 @@ https://drive.google.com/drive/folders/1Al2VNGhULT6wxpysr9VbUO1vOYieXZf-?usp=sha
 7. install gcc
 8. install python3-devel
 9. python3 setup.py install
+https://artifacts.elastic.co/downloads/beats/filebeat/filebeat-7.5.2-linux-x86_64.tar.gz
